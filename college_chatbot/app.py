@@ -29,7 +29,7 @@ def get_relevant_info(query):
         return data["admission_process"]
     elif "contact" in query:
         return data["contact"]
-    elif any(word in query for word in ["facility", "gym", "playground", "sports", "wifi"]):
+    elif any(word in query for word in ["facility","facilities", "gym", "playground", "sports", "wifi"]):
         return data["facilities"]
     elif "placement" in query:
         return data["placements"]
