@@ -1,0 +1,48 @@
+{
+  "college_name": "HIM Institute of Technology",
+  "courses": [
+    {"name": "B.Tech CSE", "fees": "₹1,00,000/year", "eligibility": "12th PCM", "duration": "4 years"},
+    {"name": "B.Tech ECE", "fees": "₹90,000/year", "eligibility": "12th pass", "duration": "4 years"},
+    {"name": "BBA", "fees": "₹60,000/year", "eligibility": "12th pass", "duration": "3 years"},
+    {"name": "MBA", "fees": "₹1,50,000/year", "eligibility": "Graduation", "duration": "2 years"},
+    {"name": "B.Sc. Physics", "fees": "₹50,000/year", "eligibility": "12th Science", "duration": "3 years"},
+    {"name": "B.Sc. Chemistry", "fees": "₹50,000/year", "eligibility": "12th Science", "duration": "3 years"},
+    {"name": "B.Sc. Mathematics", "fees": "₹50,000/year", "eligibility": "12th Science", "duration": "3 years"},
+    {"name": "M.Sc. Physics", "fees": "₹70,000/year", "eligibility": "Graduation", "duration": "2 years"},
+    {"name": "M.Sc. Chemistry", "fees": "₹70,000/year", "eligibility": "Graduation", "duration": "2 years"},
+    {"name": "M.Sc. Mathematics", "fees": "₹70,000/year", "eligibility": "Graduation", "duration": "2 years"}
+  ],
+  "hostel_fees": "₹80,000 per year (including mess)",
+  "admission_process": "Apply online → Entrance exam → Counseling → Admission confirmation",
+  "contact": {
+    "phone": "9876543210",
+    "email": "HIM@institute.edu",
+    "address": "Himachal Pradesh, India"
+  },
+  "facilities": [
+  "Library",
+  "Hostel",
+  "Sports Complex",
+  "WiFi Campus",
+  "Cafeteria",
+  "Gym",
+  "Auditorium",
+  "Labs",
+  "stadium for sports activities also have college sports teams that participate in inter-college tournaments"
+],
+  "placements": {
+    "average_package": "₹5 LPA",
+    "highest_package": "₹12 LPA",
+    "top_companies": ["TCS", "Infosys", "Wipro", "HCL"]
+  },
+  "internships": {
+    "details": "Internship opportunities available from 2nd year onwards with top companies.",
+    "companies": ["TCS", "Infosys", "Startups", "Local Tech Firms"]
+  },
+  "scholarships": {
+    "merit": "Up to 50% fee waiver for top students",
+    "sports": "Special scholarships for sports achievers",
+    "financial": "Support for economically weaker sections"
+  },
+  "campus_vibe": "Green and peaceful campus with modern infrastructure, gym facilities, sports grounds, active student clubs, and cultural fests."
+}
